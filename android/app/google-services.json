@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731455942975",
+    "project_id": "shoppinrobotdatabase",
+    "storage_bucket": "shoppinrobotdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731455942975:android:5d577e48da82c9dd49e38a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731455942975-4vqqvhualliubfv5s06kffpmouhai0pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeU5Y6RcmS8hg1QLOIV_cham-Zzc5UHIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731455942975-4vqqvhualliubfv5s06kffpmouhai0pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
